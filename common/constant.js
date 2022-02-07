@@ -1,0 +1,4 @@
+module.exports = {
+  GENERATE_ACCOUNT_AMOUNT: process.env.GENERATE_ACCOUNT_AMOUNT || '20',
+  GENERATE_ACCOUNT_SECRET: process.env.GENERATE_ACCOUNT_SECRET || '',
+}

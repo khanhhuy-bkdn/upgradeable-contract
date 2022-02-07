@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.8150" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-27T04:45:17" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Box" timestamp="2022-01-27T04:45:17" tests="5" file="D:\Study\Blockchain\Hardhat\upgradeable-contract\test\box-test.js" time="0.8080" failures="0">
+    <testcase name="Box 1. Test address migration V1 to V2" time="0.0510" classname="1. Test address migration V1 to V2">
+    </testcase>
+    <testcase name="Box 2. Test balance" time="0.0340" classname="2. Test balance">
+    </testcase>
+    <testcase name="Box 3. Test function perimeter" time="0.0090" classname="3. Test function perimeter">
+    </testcase>
+    <testcase name="Box 4. Test mapping totalAmount" time="0.0120" classname="4. Test mapping totalAmount">
+    </testcase>
+    <testcase name="Box 5. Test mapping deposit" time="0.0120" classname="5. Test mapping deposit">
+    </testcase>
+  </testsuite>
+</testsuites>

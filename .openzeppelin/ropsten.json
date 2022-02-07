@@ -1,0 +1,378 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0xd58f443158b99324046c52c8a39C3dC48E4A8e7E",
+    "txHash": "0x1131449750c3bbc63fbd9ce73beabea05b1130aea0e9902ab630788df6672a47",
+    "deployTransaction": {
+      "hash": "0x1131449750c3bbc63fbd9ce73beabea05b1130aea0e9902ab630788df6672a47",
+      "type": 0,
+      "accessList": null,
+      "blockHash": null,
+      "blockNumber": null,
+      "transactionIndex": null,
+      "confirmations": 0,
+      "from": "0xB3D1D8451e1e421511ce1Ae1C6F87F98476aFB65",
+      "gasPrice": {
+        "type": "BigNumber",
+        "hex": "0x01dcd65000"
+      },
+      "gasLimit": {
+        "type": "BigNumber",
+        "hex": "0x0762b4"
+      },
+      "to": null,
+      "value": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "nonce": 1,
+      "data": "0x608060405234801561001057600080fd5b50600080546001600160a01b031916339081178255604051909182917f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0908290a350610759806100616000396000f3fe60806040526004361061007b5760003560e01c80639623609d1161004e5780639623609d1461011157806399a88ec414610124578063f2fde38b14610144578063f3b7dead146101645761007b565b8063204e1c7a14610080578063715018a6146100bc5780637eff275e146100d35780638da5cb5b146100f3575b600080fd5b34801561008c57600080fd5b506100a061009b366004610515565b610184565b6040516001600160a01b03909116815260200160405180910390f35b3480156100c857600080fd5b506100d1610215565b005b3480156100df57600080fd5b506100d16100ee366004610554565b610292565b3480156100ff57600080fd5b506000546001600160a01b03166100a0565b6100d161011f36600461058c565b61031c565b34801561013057600080fd5b506100d161013f366004610554565b6103ad565b34801561015057600080fd5b506100d161015f366004610515565b610405565b34801561017057600080fd5b506100a061017f366004610515565b6104ef565b6000806000836001600160a01b03166040516101aa90635c60da1b60e01b815260040190565b600060405180830381855afa9150503d80600081146101e5576040519150601f19603f3d011682016040523d82523d6000602084013e6101ea565b606091505b5091509150816101f957600080fd5b8080602001905181019061020d9190610538565b949350505050565b6000546001600160a01b031633146102485760405162461bcd60e51b815260040161023f906106c0565b60405180910390fd5b600080546040516001600160a01b03909116907f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0908390a3600080546001600160a01b0319169055565b6000546001600160a01b031633146102bc5760405162461bcd60e51b815260040161023f906106c0565b6040516308f2839760e41b81526001600160a01b038281166004830152831690638f283970906024015b600060405180830381600087803b15801561030057600080fd5b505af1158015610314573d6000803e3d6000fd5b505050505050565b6000546001600160a01b031633146103465760405162461bcd60e51b815260040161023f906106c0565b60405163278f794360e11b81526001600160a01b03841690634f1ef286903490610376908690869060040161065d565b6000604051808303818588803b15801561038f57600080fd5b505af11580156103a3573d6000803e3d6000fd5b5050505050505050565b6000546001600160a01b031633146103d75760405162461bcd60e51b815260040161023f906106c0565b604051631b2ce7f360e11b81526001600160a01b038281166004830152831690633659cfe6906024016102e6565b6000546001600160a01b0316331461042f5760405162461bcd60e51b815260040161023f906106c0565b6001600160a01b0381166104945760405162461bcd60e51b815260206004820152602660248201527f4f776e61626c653a206e6577206f776e657220697320746865207a65726f206160448201526564647265737360d01b606482015260840161023f565b600080546040516001600160a01b03808516939216917f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e091a3600080546001600160a01b0319166001600160a01b0392909216919091179055565b6000806000836001600160a01b03166040516101aa906303e1469160e61b815260040190565b600060208284031215610526578081fd5b81356105318161070b565b9392505050565b600060208284031215610549578081fd5b81516105318161070b565b60008060408385031215610566578081fd5b82356105718161070b565b915060208301356105818161070b565b809150509250929050565b6000806000606084860312156105a0578081fd5b83356105ab8161070b565b925060208401356105bb8161070b565b9150604084013567ffffffffffffffff808211156105d7578283fd5b818601915086601f8301126105ea578283fd5b8135818111156105fc576105fc6106f5565b604051601f8201601f19908116603f01168101908382118183101715610624576106246106f5565b8160405282815289602084870101111561063c578586fd5b82602086016020830137856020848301015280955050505050509250925092565b600060018060a01b038416825260206040818401528351806040850152825b818110156106985785810183015185820160600152820161067c565b818111156106a95783606083870101525b50601f01601f191692909201606001949350505050565b6020808252818101527f4f776e61626c653a2063616c6c6572206973206e6f7420746865206f776e6572604082015260600190565b634e487b7160e01b600052604160045260246000fd5b6001600160a01b038116811461072057600080fd5b5056fea2646970667358221220d849f96f3086b9f82cdcf665adb8c697ace05638da1c7c16ab2d26293717af6764736f6c63430008020033",
+      "r": "0x9dca1344c390cdf4d6227c1d40b3499ff373ac63388710e8f3e9098bb236cbe9",
+      "s": "0x7f2db80d0111a79c6a486ba76abc5f34d178fc928007859a42b39c14eaac639e",
+      "v": 41,
+      "creates": "0xd58f443158b99324046c52c8a39C3dC48E4A8e7E",
+      "chainId": 3
+    }
+  },
+  "proxies": [
+    {
+      "address": "0x1CBd3C0cBCa9383B83bC05336Ad34abF052792C7",
+      "txHash": "0x2a9a907fe5ce38b30a1cebc01832a2cf069b43d59fb13736abf68481747bcfe3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xc39d2637432403101ca27240Be6B2093f017Ef10",
+      "txHash": "0x0decc0e32ab5d6526919d5dd656ddcf121586f00d3194ae8b0f6981e3b895d4e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xcBCBf010F36C6032f270EBBaAB11626b22A2B047",
+      "txHash": "0x9893ec5765ef2ee1f1240aad1b3fa7a257a79dfccd05743c0be8a8424ac3d5d4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x90Fa4721d20ac6fb70619452d8725588E533a314",
+      "txHash": "0x29869688a7defe28fedbb5baa829e7b83d457634ec0ed32ce8e805c6ff69ed4c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xD1cb44c60450453ecd9B309B858ECd98CE2D3718",
+      "txHash": "0x46420ea081445041c8b02c229bdb3768c2ad4d5c4757eabba2f32cf94e6add47",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x00dA4ba714e4032193CF636a6a85657cc14D8e57",
+      "txHash": "0x5dc4838d17b0cf083300a9b2dd8da6a1cca3fb777b474f56a03c5d031be5ba09",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x853Cd5539B369178753946339b27f0818588e0C0",
+      "txHash": "0x2668afa4660d11494d2e6442aa23111aa81f33540016fd3e361bc82bc3e7074c",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "d6d0766930beb5fa7974d27a4dbb7336801cdb854b120320680ec0ee95539421": {
+      "address": "0x26165c679B365F769e262951c26c532a554131BB",
+      "txHash": "0x596c6e43ce32dc9488fb152bf153c59cdd9ccfe6039bdbd48f0f4dd0b611971b",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:44"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "width",
+            "type": "t_uint256",
+            "src": "contracts\\BoxV1.sol:11"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "length",
+            "type": "t_uint256",
+            "src": "contracts\\BoxV1.sol:12"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "balances",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "contracts\\BoxV1.sol:13"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "dataBlocks",
+            "type": "t_mapping(t_uint256,t_struct(AuctionData)330_storage)",
+            "src": "contracts\\BoxV1.sol:14"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_uint256,t_struct(AuctionData)330_storage)": {
+            "label": "mapping(uint256 => struct BoxV1.AuctionData)"
+          },
+          "t_struct(AuctionData)330_storage": {
+            "label": "struct BoxV1.AuctionData",
+            "members": [
+              {
+                "label": "totalCash",
+                "type": "t_uint256"
+              },
+              {
+                "label": "accumulatedDeposits",
+                "type": "t_mapping(t_address,t_uint256)"
+              }
+            ]
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "22784aa0158d0dc61b64d0c1050f3f80a1d4a9491b28d689b39ce3e25b9c3508": {
+      "address": "0xca0a051Ca4d56E7bB3233E49B2CeC20099358dCC",
+      "txHash": "0xb468c03a3b3acf9ea0c4f06072614d7d8ff569af171e1f482f2fe02d1b363ca9",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:44"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "width",
+            "type": "t_uint256",
+            "src": "contracts\\BoxV1.sol:11"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "length",
+            "type": "t_uint256",
+            "src": "contracts\\BoxV1.sol:12"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "balances",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "contracts\\BoxV1.sol:13"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "datas",
+            "type": "t_mapping(t_uint256,t_struct(Data)330_storage)",
+            "src": "contracts\\BoxV1.sol:14"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_uint256,t_struct(Data)330_storage)": {
+            "label": "mapping(uint256 => struct BoxV1.Data)"
+          },
+          "t_struct(Data)330_storage": {
+            "label": "struct BoxV1.Data",
+            "members": [
+              {
+                "label": "totalAmount",
+                "type": "t_uint256"
+              },
+              {
+                "label": "deposits",
+                "type": "t_mapping(t_address,t_uint256)"
+              }
+            ]
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "dce3fb2e557aba0ba3b6238e944a3640f9ed8b5fcd802a65c55068811eb8adb1": {
+      "address": "0x5C93eb2888fEF8fC9Ed7602076cD75EF0414ddDa",
+      "txHash": "0xdd5c2d43d8357c1d4dc55f5d1ccc71d51ec937a82b01c39681dbdd422329ddde",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:44"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "width",
+            "type": "t_uint256",
+            "src": "contracts\\BoxV1.sol:11"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "length",
+            "type": "t_uint256",
+            "src": "contracts\\BoxV1.sol:12"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "balances",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "contracts\\BoxV1.sol:13"
+          },
+          {
+            "contract": "BoxV1",
+            "label": "datas",
+            "type": "t_mapping(t_uint256,t_struct(Data)330_storage)",
+            "src": "contracts\\BoxV1.sol:14"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_uint256,t_struct(Data)330_storage)": {
+            "label": "mapping(uint256 => struct BoxV1.Data)"
+          },
+          "t_struct(Data)330_storage": {
+            "label": "struct BoxV1.Data",
+            "members": [
+              {
+                "label": "totalAmount",
+                "type": "t_uint256"
+              },
+              {
+                "label": "deposits",
+                "type": "t_mapping(t_address,t_uint256)"
+              }
+            ]
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "94cace0ef2f66d8f6c10398d353e83177530dc48bc33d9f6cd91e9a938489d41": {
+      "address": "0x9dc515CC61e2ef807b5069CF4A2Fad6d295249E1",
+      "txHash": "0x60f00be8ab317eb4b22d8d6a77e8cc45afd51a3285d1b67c1b5e4d7488b28285",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:44"
+          },
+          {
+            "contract": "BoxV2",
+            "label": "width",
+            "type": "t_uint256",
+            "src": "contracts\\BoxV2.sol:11"
+          },
+          {
+            "contract": "BoxV2",
+            "label": "length",
+            "type": "t_uint256",
+            "src": "contracts\\BoxV2.sol:12"
+          },
+          {
+            "contract": "BoxV2",
+            "label": "balances",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "contracts\\BoxV2.sol:13"
+          },
+          {
+            "contract": "BoxV2",
+            "label": "datas",
+            "type": "t_mapping(t_uint256,t_struct(Data)454_storage)",
+            "src": "contracts\\BoxV2.sol:14"
+          },
+          {
+            "contract": "BoxV2",
+            "label": "height",
+            "type": "t_uint256",
+            "src": "contracts\\BoxV2.sol:15"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_uint256,t_struct(Data)454_storage)": {
+            "label": "mapping(uint256 => struct BoxV2.Data)"
+          },
+          "t_struct(Data)454_storage": {
+            "label": "struct BoxV2.Data",
+            "members": [
+              {
+                "label": "totalAmount",
+                "type": "t_uint256"
+              },
+              {
+                "label": "deposits",
+                "type": "t_mapping(t_address,t_uint256)"
+              }
+            ]
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    }
+  }
+}
